@@ -1,0 +1,3 @@
+Plagiarism API listening on http://localhost:8080
+  POST /api/compare?k=25   (multipart/form-data, field name: files)
+Open the frontend HTML file in a browser and point it at this address.

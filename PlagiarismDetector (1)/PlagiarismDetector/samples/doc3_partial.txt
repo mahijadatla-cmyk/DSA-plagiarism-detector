@@ -1,0 +1,1 @@
+Plagiarism detection systems compare documents to find shared passages. Rolling hash techniques extend this idea to strings, allowing a sliding window of text to be hashed in constant time per shift. Other approaches use fingerprinting or winnowing, which select a subset of hashes to keep the index small and fast.
